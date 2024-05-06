@@ -4,8 +4,12 @@ using UnityEngine.Events;
 public class BulletScript : MonoBehaviour
 {
     public float bulletDamage = 1f; // Damage inflicted by the bullet
+    public ScoreManager scoreManager;
 
-
+    private void Start()
+    {
+        scoreManager = GameObject.FindObjectOfType<ScoreManager>();
+    }
 
     void OnTriggerEnter2D(Collider2D other)
     {
@@ -17,6 +21,7 @@ public class BulletScript : MonoBehaviour
 
             // Destroy the bullet
             Destroy(gameObject);
+            scoreManager.UpdateScore(10);
         }
     }
 }
