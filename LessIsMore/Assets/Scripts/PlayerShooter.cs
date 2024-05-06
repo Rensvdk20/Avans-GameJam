@@ -6,6 +6,7 @@ public class PlayerShooting : MonoBehaviour
     public Transform firePoint; // Reference to the transform representing the fire point
     public float bulletSpeed = 10f; // Speed of the bullet
     public int minPlayerSizeForShooting = 1; // Minimum player size required for shooting
+    public float growthDecrease = 0.1f;
 
     void Update()
     {
@@ -27,6 +28,8 @@ public class PlayerShooting : MonoBehaviour
 
                 // Set the bullet's velocity to shoot towards the mouse position
                 rb.velocity = fireDirection * bulletSpeed;
+
+                transform.localScale -= new Vector3(growthDecrease, growthDecrease, 0f);
             }
         }
     }

@@ -296,7 +296,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7098104801530959049, guid: 2e48c33acb28e484f9b4bf25b15d0907, type: 3}
   spawnDelay: 2
-  spawnPadding: 1
+  spawnPadding: 5
 --- !u!1 &1401772597
 GameObject:
   m_ObjectHideFlags: 0
@@ -394,6 +394,7 @@ GameObject:
   - component: {fileID: 1670965371}
   - component: {fileID: 1670965370}
   - component: {fileID: 1670965372}
+  - component: {fileID: 1670965373}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -544,6 +545,23 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.5
+--- !u!114 &1670965373
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1670965367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b70796f8fb8f0b4494841e2b79c4368, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 4669014144376264273, guid: 088a7fbbc541a614c8a0b559050c1723, type: 3}
+  firePoint: {fileID: 1670965369}
+  bulletSpeed: 20
+  minPlayerSizeForShooting: 1
+  growthDecrease: 0.1
 --- !u!1 &2035401106
 GameObject:
   m_ObjectHideFlags: 0
