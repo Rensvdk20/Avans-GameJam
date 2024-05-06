@@ -1,8 +1,11 @@
 using UnityEngine;
+using UnityEngine.Events;
 
 public class BulletScript : MonoBehaviour
 {
     public float bulletDamage = 1f; // Damage inflicted by the bullet
+
+
 
     void OnTriggerEnter2D(Collider2D other)
     {
