@@ -219,7 +219,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 33.75
+  orthographic size: 21.46057
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -313,7 +313,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1401772598
 Transform:
   m_ObjectHideFlags: 0
@@ -561,7 +561,7 @@ MonoBehaviour:
   firePoint: {fileID: 1670965369}
   bulletSpeed: 20
   minPlayerSizeForShooting: 1
-  growthDecrease: 0.1
+  growthDecrease: 0.25
 --- !u!1 &2035401106
 GameObject:
   m_ObjectHideFlags: 0
@@ -609,6 +609,8 @@ MonoBehaviour:
   enemyPrefab: {fileID: 2874328131734425265, guid: 917647f034c59ae468af14b7b8b6ec6d, type: 3}
   spawnDelay: 2
   spawnPadding: 1
+  minSpeed: 10
+  maxSpeed: 15
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

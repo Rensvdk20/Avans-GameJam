@@ -37,4 +37,17 @@ public class PlayerController : MonoBehaviour
             Destroy(other.gameObject);
         }
     }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Enemy")) // Check if the collided object is an enemy
+        {
+            // Call a method to handle player death
+            HandlePlayerDeath();
+        }
+    }
+
+    void HandlePlayerDeath()
+    {
+        Time.timeScale = 0f;
+    } 
 }
