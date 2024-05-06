@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -7,6 +8,7 @@ public class PlayerController : MonoBehaviour
 
     private Rigidbody2D rb; // Reference to the player's Rigidbody component
     private Vector2 movement; // Stores the player's movement input
+    public GameObject canvas;
 
     void Start()
     {
@@ -18,6 +20,12 @@ public class PlayerController : MonoBehaviour
         // Input handling
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
+
+        if(Input.GetKeyDown(KeyCode.R))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            Time.timeScale = 1f; // Resume the game
+        }
     }
 
     void FixedUpdate()
@@ -48,6 +56,9 @@ public class PlayerController : MonoBehaviour
 
     void HandlePlayerDeath()
     {
-        Time.timeScale = 0f;
-    } 
+        Time.timeScale = 0f; // Pause the game
+        canvas.SetActive(true);
+    }
+
+
 }
