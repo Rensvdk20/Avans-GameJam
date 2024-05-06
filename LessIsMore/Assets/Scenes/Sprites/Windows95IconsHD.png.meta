@@ -1,0 +1,2547 @@
+fileFormatVersion: 2
+guid: 4254575efa3c76344a9866014e1b38bb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Windows95IconsHD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1376
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8529c1a07986344ab47e2972307506d
+      internalID: -406186110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1376
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287ee04edac9b994d9f710e6f056bd14
+      internalID: -1217761071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1376
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aea3ca8fcaf2f447ab469dac7865381
+      internalID: -517280514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1376
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11665b23404ded54cb4db8c25781203d
+      internalID: -495828848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1376
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626f8c935f0c1164bb8e581ae1d4765c
+      internalID: -1287455478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_5
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1376
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb4655777343de458d7cb9832f2261a
+      internalID: 498668694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_6
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1376
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1324afbbdc50dd540acd8e1c65dcda71
+      internalID: -111850042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_7
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1376
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147538fd2382cd54eb5e3e5a71952927
+      internalID: -1233887746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_8
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1376
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870cc514f0b0c6843bcf383e898cf69b
+      internalID: -1287399008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_9
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1376
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f41b2aa88509f45aa351d39c5e1330
+      internalID: -32553295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_10
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1376
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89362a264459bc646856abaf401bfc06
+      internalID: -730761274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1224
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d376095fd1aa824bb718e62d3252c45
+      internalID: -1188703101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1224
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109dfdb1e51d0a246a84c75977ec02de
+      internalID: -1462379350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1224
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e47efbb70fa9d14bbfbc770b6bd7ec7
+      internalID: 1854055475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1224
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c519bec77e7e564b9e9f377c55779f6
+      internalID: -716595575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_15
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1224
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23d0d6972e958b42ac2383fed49a4f1
+      internalID: 761023065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_16
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1224
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010d88e5e1a125e409e17cc836bb0e66
+      internalID: 613086413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_17
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1224
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c92f0f287231047a2cbd1a45f78980
+      internalID: -1996853897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_18
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1224
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a30cd2368fadd47873647f7b2421d1
+      internalID: -326798957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_19
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1224
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd4b0b32af355f4ead283ea56b0b745
+      internalID: 1630687122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_20
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1224
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b8f75b27ad01e4482634943d36bc6b
+      internalID: 1045663842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_21
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1224
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f9343aba1a6b84eb425c918e52d69b
+      internalID: 1332901046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1072
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5395a1c3a6e3443b5a8365ea4c9b5b
+      internalID: -1088245068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1072
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac13d43179607fd438e6a22129074e58
+      internalID: -248481480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_24
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1072
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b472285a803d241b8d26a5725ca782
+      internalID: 559896828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_25
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1072
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0a5f37594633941a1e07bab6f21ec5
+      internalID: -620628865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_26
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1072
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f46007c10ca6942bcea34d56b385ab
+      internalID: -537624919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_27
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1072
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d97c4d7dbfa73f40af1494d2ed48d4c
+      internalID: -468462258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_28
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1072
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccab5e88d68f784eb11aff0ccc27490
+      internalID: 1244840962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_29
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1072
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb200b04dd7d8b24baac135b3f6f594c
+      internalID: 1087847086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_30
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1072
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf3ca4673c8a1c4ca201abd028f0b8d
+      internalID: -1976565614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_31
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1072
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580dd62cfa556ee44897cfdeb9451cfa
+      internalID: 1793741809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_32
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1072
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee92f9ebf3e17bf498dfa38f536a762f
+      internalID: 51612505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5d37b307a49eb4796eb8122b9bde08
+      internalID: 24425689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_34
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 920
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb4243f871ff2744b2dff048d52199c
+      internalID: -603734275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_35
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 920
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e70855726e5624988d5668045e03f1
+      internalID: 34768739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_36
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 920
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f49f9f11140c244fa6f472a10f19396
+      internalID: -1451979348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_37
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 920
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98652049fd7ebfc4daedf3cd4cf52c57
+      internalID: -463291769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_38
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 920
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d55399d7ef37e243ad727b8a9128a48
+      internalID: -936496185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_39
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 920
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffc1489f59ad9048b16378cbdf89705
+      internalID: -1842548479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_40
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 920
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aca00508c6b19241af8cfb025301ad9
+      internalID: 1519310673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_41
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 920
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a51435e1767cb4cb1daed740652a0b
+      internalID: -1942552657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_42
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 920
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ca1211d1085434d8bc51d3b2eb29b6
+      internalID: -39767722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_43
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 920
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6451bbfe8a5032e49be07356bf8597cd
+      internalID: -684856816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761224f5a3038fb498028857e257f767
+      internalID: 1773700506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_45
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 768
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46eec3d3ff52374f8037df535cdcc96
+      internalID: 389266073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 768
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdc8d596a7af4f468487539b9d043cd
+      internalID: 810069653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_47
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 768
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0124010cc3483a4690a5506ca345506
+      internalID: 1231157373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_48
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 768
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2be8b10332b4204fab43464795b550c
+      internalID: -1738527888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_49
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 768
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa9ee2c8d0f90c42a641fa305ad5264
+      internalID: 251838751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_50
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 768
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb7dc623bb30274c86cddaf1fd7c2e2
+      internalID: 640310785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_51
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 768
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210c995cecd713949b14716b99312474
+      internalID: 1242246800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_52
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 768
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d83726009c06b49ba8a02ab7386a53
+      internalID: 1050268040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_53
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 768
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07365a2e500d50545a2c09ce65efc3db
+      internalID: 1428048722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_54
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 768
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630f33762455a2e48a68f3750e32fffc
+      internalID: 555693812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f045c7abf71905d40ae14f64681bd448
+      internalID: 450209338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_56
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 616
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a64fcb8c397f0a4dba85c450efc3b60
+      internalID: 1702591505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_57
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 616
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ba65772201d9743addf109ab61d958
+      internalID: -948541716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_58
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 616
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1788b6a91f66b1c4db1cb4de27fedbc7
+      internalID: 905304991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_59
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 616
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e275f8b3b884f4493b615eed2b648f
+      internalID: -1206182149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_60
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 616
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b17d81954aa4f342ad7cfcd793dbcc2
+      internalID: -1781128691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_61
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 616
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a5123dec545f44288807f0b8af39aa
+      internalID: 150983193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_62
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 616
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b06670b46242446bdd74d45956adf5
+      internalID: 906700965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_63
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 616
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b700435c6ee454d8a0bdbb43e52df7
+      internalID: -934950111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_64
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 616
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd8bef83462584439bfc5da86a9fa7b
+      internalID: 1900292979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_65
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 616
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d23ab90c9ba5a4198cf1ee0c162315
+      internalID: 772334207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4852b7ec2c84b964f9643fb7bd806bab
+      internalID: -627508298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_67
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 464
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e2549b420345947b087aa7cdde039b
+      internalID: 173184473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_68
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 464
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec4f1a8717425943893e989d97a417c
+      internalID: 843124469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_69
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 464
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715dc292c3328d848b5f73c1fd9d12e9
+      internalID: -2092606936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_70
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 464
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c39153ed48d844d80d67beade6920b
+      internalID: -1909160003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_71
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 464
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8391f5b79fd3b3c45bb757b10157c242
+      internalID: -699856728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_72
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 464
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaba1ea957a2b54e847c4ef47f0427a
+      internalID: -240122540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_73
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 464
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6d846e3b7057149be11b46e065e340
+      internalID: -293402067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_74
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 464
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91a9432d23374b42bcc6388b9ff27d3
+      internalID: 2019813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_75
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 464
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18925424ee9d10e4f8b0eb2388c3c766
+      internalID: 945609056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_76
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 464
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf85fe167a6f9742a5eeaa3b0b2a41d
+      internalID: 1427168096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3150b6d15891c9d4db75328a76600f21
+      internalID: 345736812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_78
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 312
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc217f6385c50d40929220c7edce3f1
+      internalID: 2046852052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_79
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 312
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7975aaa0e7791f64fb3f18a2f8c97be5
+      internalID: 967613465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_80
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 312
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ca5a25b936b3d4e96efa9e36b15ff8
+      internalID: -1124668988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_81
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 312
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858bded7fc21d574badeade315ea0a04
+      internalID: -2088971599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_82
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 312
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ace1a0cf3fc42c46a1ef178f68bbefb
+      internalID: -1397043131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_83
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 312
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd5b4324c0204941a2f2c9454316284
+      internalID: -624017905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_84
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 312
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5353065ba0e0aa842af9b6c6ba2a96a2
+      internalID: -572516590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_85
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 312
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3930af3b67ab30744b1ccb6e9de64356
+      internalID: -477221572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_86
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 312
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0791bba3629fdc41a783fa7e5603803
+      internalID: -267672615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_87
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 312
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63de8b7d1b067d47b7a909e1e0bde70
+      internalID: -710339780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2748cdb56a6f447b4f34ba8efd6da7
+      internalID: -272156372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_89
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 160
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc080c0919dd41540ad086fbbc5ae381
+      internalID: 1916923283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_90
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 160
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbca9ed384ea3544ca79854fe8ec7df4
+      internalID: -1508241867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_91
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 160
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f8ffde5fc0f2d47848d6fb71daf4e8
+      internalID: 98786039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_92
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 160
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb27e1cbb8e0c6d42ba9b73aa0ccfc2f
+      internalID: 391231316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_93
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 160
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8a263a2e24b844fae0c8b940ea7931
+      internalID: 1118462631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_94
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 160
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33360754fe8da24fb09eea86037d27d
+      internalID: 423170678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_95
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 160
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afee7bca118f0143a7a1a625f671d0b
+      internalID: 601845608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_96
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 160
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad1bcfebf1307d47ac5657759568571
+      internalID: 957262214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_97
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 160
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99f1574351bcff45bf0d2bde58fb081
+      internalID: 1272823302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_98
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 160
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbca492c66f6d954997d576a6fd2f3a8
+      internalID: -1636873655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec70299a56bb324598d13bbdb8ceaca
+      internalID: 1745701767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_100
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 8
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816fed93ce004ac44afdedd43d546adc
+      internalID: 1448632627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_101
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 8
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990358ddb5daf9f4ba135d0062305a1e
+      internalID: 259484655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_102
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 8
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afec3a2a13cfa841a77c58c7de3e194
+      internalID: -812644143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_103
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 8
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7ce129e69813e4baae20584468fd9c
+      internalID: -740865917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_104
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 8
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82695a4b90183af4abcbe62ca32359a9
+      internalID: 355012977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_105
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 8
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b6283f4ef40c74ba53018d0b707538
+      internalID: 913995087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_106
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 8
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1389f22f84796d49a63baf1e80e18fe
+      internalID: -1828934549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_107
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 8
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66e685a52506ce4e881d7700b30387e
+      internalID: 1822799777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_108
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 8
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0013ac1244c7d438a142494d2c6fd4
+      internalID: 2126732561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Windows95IconsHD_109
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 8
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaa1ef7e8538544bb309fc3409bf4e7
+      internalID: -1346405250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Windows95IconsHD_0: -406186110
+      Windows95IconsHD_1: -1217761071
+      Windows95IconsHD_10: -730761274
+      Windows95IconsHD_100: 1448632627
+      Windows95IconsHD_101: 259484655
+      Windows95IconsHD_102: -812644143
+      Windows95IconsHD_103: -740865917
+      Windows95IconsHD_104: 355012977
+      Windows95IconsHD_105: 913995087
+      Windows95IconsHD_106: -1828934549
+      Windows95IconsHD_107: 1822799777
+      Windows95IconsHD_108: 2126732561
+      Windows95IconsHD_109: -1346405250
+      Windows95IconsHD_11: -1188703101
+      Windows95IconsHD_12: -1462379350
+      Windows95IconsHD_13: 1854055475
+      Windows95IconsHD_14: -716595575
+      Windows95IconsHD_15: 761023065
+      Windows95IconsHD_16: 613086413
+      Windows95IconsHD_17: -1996853897
+      Windows95IconsHD_18: -326798957
+      Windows95IconsHD_19: 1630687122
+      Windows95IconsHD_2: -517280514
+      Windows95IconsHD_20: 1045663842
+      Windows95IconsHD_21: 1332901046
+      Windows95IconsHD_22: -1088245068
+      Windows95IconsHD_23: -248481480
+      Windows95IconsHD_24: 559896828
+      Windows95IconsHD_25: -620628865
+      Windows95IconsHD_26: -537624919
+      Windows95IconsHD_27: -468462258
+      Windows95IconsHD_28: 1244840962
+      Windows95IconsHD_29: 1087847086
+      Windows95IconsHD_3: -495828848
+      Windows95IconsHD_30: -1976565614
+      Windows95IconsHD_31: 1793741809
+      Windows95IconsHD_32: 51612505
+      Windows95IconsHD_33: 24425689
+      Windows95IconsHD_34: -603734275
+      Windows95IconsHD_35: 34768739
+      Windows95IconsHD_36: -1451979348
+      Windows95IconsHD_37: -463291769
+      Windows95IconsHD_38: -936496185
+      Windows95IconsHD_39: -1842548479
+      Windows95IconsHD_4: -1287455478
+      Windows95IconsHD_40: 1519310673
+      Windows95IconsHD_41: -1942552657
+      Windows95IconsHD_42: -39767722
+      Windows95IconsHD_43: -684856816
+      Windows95IconsHD_44: 1773700506
+      Windows95IconsHD_45: 389266073
+      Windows95IconsHD_46: 810069653
+      Windows95IconsHD_47: 1231157373
+      Windows95IconsHD_48: -1738527888
+      Windows95IconsHD_49: 251838751
+      Windows95IconsHD_5: 498668694
+      Windows95IconsHD_50: 640310785
+      Windows95IconsHD_51: 1242246800
+      Windows95IconsHD_52: 1050268040
+      Windows95IconsHD_53: 1428048722
+      Windows95IconsHD_54: 555693812
+      Windows95IconsHD_55: 450209338
+      Windows95IconsHD_56: 1702591505
+      Windows95IconsHD_57: -948541716
+      Windows95IconsHD_58: 905304991
+      Windows95IconsHD_59: -1206182149
+      Windows95IconsHD_6: -111850042
+      Windows95IconsHD_60: -1781128691
+      Windows95IconsHD_61: 150983193
+      Windows95IconsHD_62: 906700965
+      Windows95IconsHD_63: -934950111
+      Windows95IconsHD_64: 1900292979
+      Windows95IconsHD_65: 772334207
+      Windows95IconsHD_66: -627508298
+      Windows95IconsHD_67: 173184473
+      Windows95IconsHD_68: 843124469
+      Windows95IconsHD_69: -2092606936
+      Windows95IconsHD_7: -1233887746
+      Windows95IconsHD_70: -1909160003
+      Windows95IconsHD_71: -699856728
+      Windows95IconsHD_72: -240122540
+      Windows95IconsHD_73: -293402067
+      Windows95IconsHD_74: 2019813
+      Windows95IconsHD_75: 945609056
+      Windows95IconsHD_76: 1427168096
+      Windows95IconsHD_77: 345736812
+      Windows95IconsHD_78: 2046852052
+      Windows95IconsHD_79: 967613465
+      Windows95IconsHD_8: -1287399008
+      Windows95IconsHD_80: -1124668988
+      Windows95IconsHD_81: -2088971599
+      Windows95IconsHD_82: -1397043131
+      Windows95IconsHD_83: -624017905
+      Windows95IconsHD_84: -572516590
+      Windows95IconsHD_85: -477221572
+      Windows95IconsHD_86: -267672615
+      Windows95IconsHD_87: -710339780
+      Windows95IconsHD_88: -272156372
+      Windows95IconsHD_89: 1916923283
+      Windows95IconsHD_9: -32553295
+      Windows95IconsHD_90: -1508241867
+      Windows95IconsHD_91: 98786039
+      Windows95IconsHD_92: 391231316
+      Windows95IconsHD_93: 1118462631
+      Windows95IconsHD_94: 423170678
+      Windows95IconsHD_95: 601845608
+      Windows95IconsHD_96: 957262214
+      Windows95IconsHD_97: 1272823302
+      Windows95IconsHD_98: -1636873655
+      Windows95IconsHD_99: 1745701767
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
