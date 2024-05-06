@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MenuManager : MonoBehaviour
 {
@@ -29,7 +30,7 @@ public GameObject[] gameObjects;
                 ShowCurrentGameObject();
 
                 // Check if all game objects have been shown
-                if (currentIndex >= gameObjects.Length)
+                if (currentIndex >= gameObjects.Length - 1)
                 {
                     allObjectsShown = true;
                 }
@@ -50,5 +51,9 @@ public GameObject[] gameObjects;
         {
             gameObjects[currentIndex].SetActive(true);
         }
+    }
+
+    public void LoadGameScreen() {
+        SceneManager.LoadScene("MenuGame");
     }
 }
